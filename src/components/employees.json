@@ -2,73 +2,73 @@
   {
     "id": 1,
     "name": "SpongeBob",
-    "occupation": "Sales Associate",
+    "position": "Sales Associate",
     "department": "Sales"
   },
   {
     "id": 2,
     "name": "Mr. Krabs",
-    "occupation": "Manger",
+    "position": "Manger",
     "department": "Sales"
   },
   {
     "id": 3,
     "name": "Squidward",
-    "occupation": "Sales Associate",
+    "position": "Sales Associate",
     "department": "Sales"
   },
   {
     "id": 4,
     "name": "Dexter",
-    "occupation": "Manager",
+    "position": "Manager",
     "department": "Logistics"
   },
   {
     "id": 5,
     "name": "Courage",
-    "occupation": "Generalist",
+    "position": "Generalist",
     "department": "Human Resources"
   },
   {
     "id": 6,
     "name": "Doug Funnie",
-    "occupation": "Student",
+    "position": "Student",
     "department": "Logistics"
   },
   {
     "id": 7,
     "name": "Bugs Bunny",
-    "occupation": "Generalist",
+    "position": "Generalist",
     "department": "Human Resources"
   },
   {
     "id": 8,
     "name": "Johnny Bravo",
-    "occupation": "Generalist",
+    "position": "Generalist",
     "department": "Human Resources"
   },
   {
     "id": 9,
     "name": "Tommy Pickles",
-    "occupation": "Generalist",
+    "position": "Generalist",
     "department": "Human Resources"
   },
   {
     "id": 10,
     "name": "Rocko",
-    "occupation": "Sales Associate",
+    "position": "Sales Associate",
     "department": "Sales"
   },
   {
     "id": 11,
     "name": "Captain Planet",
-    "occupation": "Manager",
+    "position": "Manager",
     "department": "Human Resources"
   },
   {
     "id": 12,
     "name": "Ickis",
-    "occupation": "Distributor",
+    "position": "Distributor",
     "department": "Logistics"
   }
 ]
