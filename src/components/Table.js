@@ -32,9 +32,9 @@ class Table extends React.Component{
       <table className="table">
         <thead>
           <tr>
-            <th scope="col" ><button class="btn btn-secondary btn-md" onClick={() => this.sortby("id")}>ID</button></th>
-            <th scope="col" ><button class="btn btn-secondary btn-md" onClick={() => this.sortby("name")}>Name</button></th>
-            <th scope="col" ><button class="btn btn-secondary btn-md" onClick={() => this.sortby("position")}>Position</button></th>
+            <th scope="col" ><button className="btn btn-secondary btn-md" onClick={() => this.sortby("id")}>ID</button></th>
+            <th scope="col" ><button className="btn btn-secondary btn-md" onClick={() => this.sortby("name")}>Name</button></th>
+            <th scope="col" ><button className="btn btn-secondary btn-md" onClick={() => this.sortby("position")}>Position</button></th>
             <th scope="col" ><DropdownList filterby={this.filterby} sort={this.sortby}/></th>
           </tr>
         </thead>
